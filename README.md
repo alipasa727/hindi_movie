@@ -91,6 +91,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
+- [Zindagi Na Milegi Dobara（2011）](movies/Zindagi-Na-Milegi-Dobara-2011/)：[Sooraj Ki Baahon Mein](movies/Zindagi-Na-Milegi-Dobara-2011/songs/Sooraj-Ki-Baahon-Mein.md)
 - [Dilwale Dulhania Le Jayenge（1995）](movies/Dilwale-Dulhania-Le-Jayenge-1995/)：[台詞集](movies/Dilwale-Dulhania-Le-Jayenge-1995/dialogues/dialogue.md)・[मेरे ख़्वाबों में](movies/Dilwale-Dulhania-Le-Jayenge-1995/songs/Mere-Khwabon-Mein.md)
 - [Karz（1980）](movies/Karz-1980/)：[Om Shanti Om](movies/Karz-1980/songs/Om-Shanti-Om.md)
 - [ओम शांति ओम（2007）](movies/Om-Shanti-Om-2007/)：[台詞集](movies/Om-Shanti-Om-2007/dialogues/dialogue.md)・[आँखों में तेरी](movies/Om-Shanti-Om-2007/songs/Aankhon-Mein-Teri.md)・[दास्तान-ए-ओम शांति ओम](movies/Om-Shanti-Om-2007/songs/Dastaan-E-Om-Shanti-Om.md)・[धूम ताना](movies/Om-Shanti-Om-2007/songs/Dhoom-Taana.md)・[दीवानगी दीवानगी](movies/Om-Shanti-Om-2007/songs/Deewangi-Deewangi.md)
