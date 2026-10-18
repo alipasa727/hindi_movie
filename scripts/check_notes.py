@@ -62,8 +62,21 @@ def check_note(path):
     if preamble:
         fail("先頭見出しと本文の間に前置きを置かないでください")
 
+    sections = list(zip(pieces[1::2], pieces[2::2]))
+    if category == "dialogues" and sections and sections[0][0] == "目次":
+        _, toc = sections.pop(0)
+        expected = []
+        for title, _ in sections:
+            number = re.match(r"(\d{3,})：", title)
+            if number:
+                expected.append(f"- [{title}](#dialogue-{number.group(1)})")
+        if [line.strip() for line in toc.splitlines() if line.strip()] != expected:
+            fail("目次の項目・順序・リンクを台詞の見出しに合わせてください")
+        if not sections:
+            fail("目次に対応する台詞の節がありません")
+
     numbers = []
-    for title, section in zip(pieces[1::2], pieces[2::2]):
+    for title, section in sections:
         divisions = re.split(r"^### (.+)\n", section, flags=re.M)
         if divisions[1::2] != HEADINGS:
             fail(f"{title}: 本文→直訳→語彙説明→文法説明→補足の順にしてください")

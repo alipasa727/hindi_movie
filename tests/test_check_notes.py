@@ -29,6 +29,16 @@ class CheckNotesTests(unittest.TestCase):
     def test_template_is_accepted(self):
         self.assertEqual(self.write(self.template), [])
 
+    def test_dialogue_toc_is_accepted(self):
+        toc = "## 目次\n\n- [001：［台詞の短い見出し］](#dialogue-001)\n\n"
+        text = self.template.replace('<a id="dialogue-001">', toc + '<a id="dialogue-001">', 1)
+        self.assertEqual(self.write(text), [])
+
+    def test_broken_toc_link_is_rejected(self):
+        toc = "## 目次\n\n- [001：［台詞の短い見出し］](#dialogue-002)\n\n"
+        text = self.template.replace('<a id="dialogue-001">', toc + '<a id="dialogue-001">', 1)
+        self.assertTrue(any("目次の項目" in e for e in self.write(text)))
+
     def test_original_wrong_path_is_rejected(self):
         path = checker.ROOT.parent / "Gangs of Wasseypur/セリフと日本語訳.md"
         self.assertTrue(any("リポジトリ外" in e for e in checker.check_note(path)))
