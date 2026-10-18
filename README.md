@@ -91,7 +91,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
-- [Hum Aapke Hain Kaun（1994）](movies/Hum-Aapke-Hain-Kaun-1994/)：[Didi Tera Devar Deewana](movies/Hum-Aapke-Hain-Kaun-1994/songs/Didi-Tera-Devar-Deewana.md)
+- [Hum Aapke Hain Kaun（1994）](movies/Hum-Aapke-Hain-Kaun-1994/)：[Didi Tera Devar Deewana](movies/Hum-Aapke-Hain-Kaun-1994/songs/Didi-Tera-Devar-Deewana.md)・[Joote De Do Paise Le Lo](movies/Hum-Aapke-Hain-Kaun-1994/songs/Joote-De-Do-Paise-Le-Lo.md)
 - [Zindagi Na Milegi Dobara（2011）](movies/Zindagi-Na-Milegi-Dobara-2011/)：[Sooraj Ki Baahon Mein](movies/Zindagi-Na-Milegi-Dobara-2011/songs/Sooraj-Ki-Baahon-Mein.md)・[Señorita](movies/Zindagi-Na-Milegi-Dobara-2011/songs/Senorita.md)
 - [Dilwale Dulhania Le Jayenge（1995）](movies/Dilwale-Dulhania-Le-Jayenge-1995/)：[台詞集](movies/Dilwale-Dulhania-Le-Jayenge-1995/dialogues/dialogue.md)・[मेरे ख़्वाबों में](movies/Dilwale-Dulhania-Le-Jayenge-1995/songs/Mere-Khwabon-Mein.md)・[हो गया है तुझको तो प्यार सजना](movies/Dilwale-Dulhania-Le-Jayenge-1995/songs/Ho-Gaya-Hai-Tujhko-To-Pyar-Sajna.md)・[मेहंदी लगा के रखना](movies/Dilwale-Dulhania-Le-Jayenge-1995/songs/Mehndi-Laga-Ke-Rakhna.md)
 - [Karz（1980）](movies/Karz-1980/)：[Om Shanti Om](movies/Karz-1980/songs/Om-Shanti-Om.md)
