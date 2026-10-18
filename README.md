@@ -87,5 +87,5 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
-- [ओम शांति ओम（2007）](movies/Om-Shanti-Om-2007/)：[台詞集](movies/Om-Shanti-Om-2007/dialogues/dialogue.md)
+- [ओम शांति ओम（2007）](movies/Om-Shanti-Om-2007/)：[台詞集](movies/Om-Shanti-Om-2007/dialogues/dialogue.md)・[आँखों में तेरी](movies/Om-Shanti-Om-2007/songs/Aankhon-Mein-Teri.md)
 - [Gangs of Wasseypur（2012）](movies/Gangs-of-Wasseypur-2012/)：[台詞集](movies/Gangs-of-Wasseypur-2012/dialogues/dialogue.md)・[Ek Bagal Mein Chand Hoga](movies/Gangs-of-Wasseypur-2012/songs/Ek-Bagal-Mein-Chand-Hoga.md)・[Keh Ke Lunga](movies/Gangs-of-Wasseypur-2012/songs/Keh-Ke-Lunga.md)・[O Womaniya](movies/Gangs-of-Wasseypur-2012/songs/O-Womaniya.md)
