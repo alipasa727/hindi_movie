@@ -10,12 +10,6 @@ HEADINGS = ["本文", "直訳", "語彙説明", "文法説明", "補足"]
 VOCAB_HEADER = "| 本文の形 | 基本形 | 品詞 | 意味 | 活用・語尾の働き |"
 PROJECT_DOCS = {"AGENTS.md", "README.md", "SOURCES.md", "GRAMMAR_LEGEND.md",
                 "scripts/workspace-AGENTS.md"}
-REFERENCE_FILES = {
-    "movies/Muthu-1995/dialogues/dialogue.md",
-    "movies/Muthu-1995/songs/Kokku-Saiva-Kokku.md",
-    "movies/Muthu-1995/songs/Kuluvalile.md",
-    "movies/Muthu-1995/songs/Thillana-Thillana.md",
-}
 
 
 def check_note(path):
@@ -38,8 +32,6 @@ def check_note(path):
         return [f"{relative}: 曲名の空白はハイフンにしてください"]
     if not path.is_file():
         return [f"{relative}: ファイルがありません"]
-    if relative in REFERENCE_FILES:
-        return []
 
     text = path.read_text(encoding="utf-8")
     errors = []

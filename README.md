@@ -75,7 +75,7 @@ movies/<映画名>-<公開年>/
 
 ## 保存先・書式の検査
 
-教材の変更後、コミット前に `python3 scripts/check_notes.py` を実行します。保存パス、各節の5区分、語彙表の列、台詞の番号とアンカーを検査します。対象パスを引数で指定すると、リポジトリ外への保存先もエラーになります。既存のタミル語教材4ファイルは本文形式の検査から除外します。
+教材の変更後、コミット前に `python3 scripts/check_notes.py` を実行します。保存パス、各節の5区分、語彙表の列、台詞の番号とアンカーを検査します。対象パスを引数で指定すると、リポジトリ外への保存先もエラーになります。
 
 GitHub Actions でも同じ検査を実行します。この検査は翻訳の正確さや指示を読んだことを判定せず、リポジトリ外のファイルは自動検出しません。Actions の失敗を理由にマージを禁止するには、別途ブランチ保護の設定が必要です。
 
@@ -89,7 +89,3 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 - [ओम शांति ओम（2007）](movies/Om-Shanti-Om-2007/)：[台詞集](movies/Om-Shanti-Om-2007/dialogues/dialogue.md)
 - [Gangs of Wasseypur（2012）](movies/Gangs-of-Wasseypur-2012/)：[台詞集](movies/Gangs-of-Wasseypur-2012/dialogues/dialogue.md)・[Ek Bagal Mein Chand Hoga](movies/Gangs-of-Wasseypur-2012/songs/Ek-Bagal-Mein-Chand-Hoga.md)・[Keh Ke Lunga](movies/Gangs-of-Wasseypur-2012/songs/Keh-Ke-Lunga.md)・[O Womaniya](movies/Gangs-of-Wasseypur-2012/songs/O-Womaniya.md)
-
-### 構成・説明の参考
-
-- [Muthu（1995）](movies/Muthu-1995/)：タミル語の既存教材4ファイルを参考用に残しています。本文・訳・文法説明は元のままで、ヒンディー語教材ではありません。
