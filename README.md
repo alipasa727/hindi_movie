@@ -95,7 +95,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
-- [Bajrangi Bhaijaan（2015）](movies/Bajrangi-Bhaijaan-2015/)：[Aaj Ki Party](movies/Bajrangi-Bhaijaan-2015/songs/Aaj-Ki-Party.md)
+- [Bajrangi Bhaijaan（2015）](movies/Bajrangi-Bhaijaan-2015/)：[Aaj Ki Party](movies/Bajrangi-Bhaijaan-2015/songs/Aaj-Ki-Party.md)・[Chicken Kuk-Doo-Koo](movies/Bajrangi-Bhaijaan-2015/songs/Chicken-Kuk-Doo-Koo.md)
 - [Dhurandhar（2025）](movies/Dhurandhar-2025/)：[台詞集](movies/Dhurandhar-2025/dialogues/dialogue.md)
 - [Kuch Kuch Hota Hai（1998）](movies/Kuch-Kuch-Hota-Hai-1998/)：[Saajanji Ghar Aaye](movies/Kuch-Kuch-Hota-Hai-1998/songs/Saajanji-Ghar-Aaye.md)
 - [Sholay（1975）](movies/Sholay-1975/)：[台詞集](movies/Sholay-1975/dialogues/dialogue.md)・[कितने आदमी थे?](movies/Sholay-1975/dialogues/Kitne-Aadmi-The.md)・[Yeh Dosti Hum Nahin Todenge](movies/Sholay-1975/songs/Yeh-Dosti-Hum-Nahin-Todenge.md)・[Haan Jab Tak Hai Jaan](movies/Sholay-1975/songs/Haan-Jab-Tak-Hai-Jaan.md)
