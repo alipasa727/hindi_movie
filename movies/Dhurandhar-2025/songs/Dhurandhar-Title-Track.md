@@ -18,9 +18,9 @@
 | --- | --- | --- | --- | --- |
 | Ladies | lady | `N.PL` | 淑女たち、女性の皆さん | 複数形。呼びかけ |
 | gentlemen | gentleman | `N.PL` | 紳士たち、男性の皆さん | 不規則な複数形。呼びかけ |
-| You are | you／be | `PRON.2`＋`AUX.PRS.2` | あなたたちは〜である | are は現在の you に対応する形。you 自体は単複同形 |
+| You are | you／be | `PRON.2PL.M/F`＋`AUX.PRS.2` | あなたたちは〜である | are は現在の you に対応する形。you 自体は単複同形 |
 | not ready | not／ready | `PART`＋`ADJ.INVAR` | 準備ができていない | not が述語 ready を否定。ready は性数によって変化しない |
-| for this | for／this | `PREP`＋`PRON` | これに対して | this は単数の指示代名詞。for が準備の対象を示す |
+| for this | for／this | `PREP`＋`PRON.3SG.NEUT` | これに対して | this は単数の指示代名詞。for が準備の対象を示す |
 
 ### 文法説明
 
@@ -49,7 +49,7 @@
 | ना दे | ना／देणा（パンジャーブ語） | `PART`＋`V.IMP.2SG` | 与えるな | 否定＋親しい相手への単数系列の命令。性を区別しない |
 | दिल | दिल | `N.M.SG` | 心 | 男性単数。दे の対象 |
 | परदेसी नू | परदेसी／नू | `N.M.SG`＋`POSTP` | よそ者に、異郷の人に | परदेसी は人を指す名詞用法。ここでは単数。नू が受け手を示す |
-| तैनू | तूं に対応する与格形 | `PRON` | お前に | パンジャーブ語の二人称単数。必要・成り行きを負う側 |
+| तैनू | तूं に対応する与格形 | `PRON.2SG.M/F` | お前に | パンジャーブ語の二人称単数。必要・成り行きを負う側 |
 | नित दा | नित／दा | `ADV`＋`POSTP` | 毎日の | दा は男性単数の名詞的な रोना に対応する所属の形 |
 | रोना | रोणा（パンジャーブ語） | `V.INF` | 泣くこと | 不定詞。ここでは男性単数の動作名として扱う。人称は示さない |
 | पई जाऊगा | पैणा／जाणा（パンジャーブ語） | `V`（地域形・語形未確定）＋`V.FUT.2SG.M` | 〜することになる、〜せざるを得なくなる | 必要・避けがたい成り行きを表す組み合わせ。जाऊगा はここでは三人称・男性単数系列の未来形 |
@@ -84,7 +84,7 @@
 | राँझे | राँझा | `N.M.SG`（固有名詞） | ランジャー | 男性単数の斜格。दे を伴うまとまりに入る |
 | ते | ते | `CONJ` | そして、〜と | 提示形では並列の接続詞と読める。不変化 |
 | जोगी | जोगी | `N.M.SG` | 修行者、ヨーガ行者 | ここでは男性単数。直接格と斜格は同形 |
-| तैनू | तूं に対応する与格形 | `PRON` | お前に | 二人称単数。必要を負う側 |
+| तैनू | तूं に対応する与格形 | `PRON.2SG.M/F` | お前に | 二人称単数。必要を負う側 |
 | जोगन | जोगन | `N.F.SG` | 女修行者 | 女性単数。होना の結果となる身分・状態 |
 | होना | होणा（パンジャーブ語） | `V.INF` | なる | 不定詞。人称を示さない |
 | पई जाऊगा | पैणा／जाणा（パンジャーブ語） | `V`（地域形・語形未確定）＋`V.FUT.2SG.M` | 〜せざるを得なくなるだろう | 必要を表す未来の組み合わせ。本文は三人称・男性単数系列 |
@@ -117,17 +117,17 @@
 
 | 本文の形 | 基本形 | 品詞 | 意味 | 活用・語尾の働き |
 | --- | --- | --- | --- | --- |
-| मैं | मैं（パンジャーブ語の一人称形） | `PRON` | 私は | 一人称単数。代名詞自体は性を区別しない |
+| मैं | मैं（パンジャーブ語の一人称形） | `PRON.1SG.M/F` | 私は | 一人称単数。代名詞自体は性を区別しない |
 | इश्क़ दे | इश्क़／दा | `N.M.SG`＋`POSTP` | 恋の | इश्क़ は男性単数の抽象名詞。दे が後続の傷を修飾する関係を作る |
 | अल्लियाँ | 未確定（「生々しい、まだ癒えていない」に当たる語と推定） | `ADJ`（性・数未確定）（推定） | 生々しい | 提示された alliyan に対応する表記。標準形・一致の詳細は断定しない |
 | ज़ख़्मा दे | ज़ख़्म／दा | `N.M.PL`＋`POSTP` | 傷の | ज़ख़्म は男性名詞。ここでは複数斜格を意図した形と読める。दे は後ろの मुँह に関係する |
-| खुद | खुद | `PRON`（強意用法） | 自分自身で | 主語を強める。不変化 |
+| खुद | खुद | `PRON.M/F.SG`（強意用法） | 自分自身で | 主語を強める。不変化 |
 | हस हस के | हस्सणा（パンジャーブ語） | `V.CP` | 笑いながら | 語幹の反復＋के の接続形。性数人称を示さない |
 | मुँह | मुँह | `N.M.PL` | 口、開口部 | 男性名詞。傷の開いた部分。ここでは複数と読むが単複同形 |
 | सी लांगी | सीउणा／लैणा に当たる組み合わせ（推定） | `V.STEM`＋`V.FUT.1SG.F` | 縫ってしまうつもりだ | सी が「縫う」、लांगी が女性・一人称単数の未来を表す読み。細かな縮約は未確定 |
 | जे | जे | `CONJ` | もし〜なら | 条件節を導く。不変化 |
-| यार मेरा | यार／मेरा | `N.M.SG`＋`PRON`（所有形） | 私の恋人 | यार はここでは男性単数。मेरा はその男性単数形に対応し、名詞の後ろに置かれる |
-| मैनू | मैं に対応する与格形 | `PRON` | 私に | 一人称単数。後続の動詞は提示範囲にない |
+| यार मेरा | यार／मेरा | `N.M.SG`＋`PRON.M.SG`（所有形・所有者1SG） | 私の恋人 | यार はここでは男性単数。मेरा はその男性単数形に対応し、名詞の後ろに置かれる |
+| मैनू | मैं に対応する与格形 | `PRON.1SG.M/F` | 私に | 一人称単数。後続の動詞は提示範囲にない |
 | ज़हर | ज़हर | `N.M.SG` | 毒 | 男性の物質名詞。ここでは単数扱いの語を三度反復 |
 | get ready | get／ready | `V.IMP.2`＋`ADJ.INVAR` | 準備しろ | 英語。get＋形容詞で状態の変化を促す命令 |
 | धुरंधर | धुरंधर | `N.M.SG`（呼称） | 並外れた実力者、強者 | ここでは男性単数の人物呼称として読む。活用した動詞ではない |
@@ -168,15 +168,15 @@
 
 | 本文の形 | 基本形 | 品詞 | 意味 | 活用・語尾の働き |
 | --- | --- | --- | --- | --- |
-| I'm a king | I／be／king | `PRON.1SG`＋`AUX.PRS.1SG`＋`N.SG` | 俺は王だ | I'm は I am の縮約。am は一人称単数現在、king は単数可算名詞 |
+| I'm a king | I／be／king | `PRON.1SG.M/F`＋`AUX.PRS.1SG`＋`N.SG` | 俺は王だ | I'm は I am の縮約。am は一人称単数現在、king は単数可算名詞 |
 | far from a saint | far／from／saint | `ADV`＋`PREP`＋`N.SG` | 聖人からほど遠い | saint は単数。far from が隔たりを比喩的に表す |
-| They call me a bad man | they／call／I／bad／man | `PRON.3PL`＋`V.PRS.3PL`＋`PRON.1SG`＋`ADJ.INVAR`＋`N.SG` | 奴らは俺を悪党と呼ぶ | they は三人称複数、me は一人称単数の目的格。a bad man が目的語の呼び名を示す |
-| that's | that／be | `PRON.3SG`＋`AUX.PRS.3SG` | それは〜だ | that is の縮約。is は三人称単数現在 |
+| They call me a bad man | they／call／I／bad／man | `PRON.3PL.M/F`＋`V.PRS.3PL`＋`PRON.1SG.M/F`＋`ADJ.INVAR`＋`N.SG` | 奴らは俺を悪党と呼ぶ | they は三人称複数、me は一人称単数の目的格。a bad man が目的語の呼び名を示す |
+| that's | that／be | `PRON.3SG.NEUT`＋`AUX.PRS.3SG` | それは〜だ | that is の縮約。is は三人称単数現在 |
 | f*ckin' | fucking | `ADV`（強意用法） | すげえ、ひどく | 後ろの good を強める俗語。動詞の進行形としては扱わない |
 | Mama said | mama／say | `N.SG`＋`V.PST.3SG` | 母さんは言った | mama は単数、said は過去形。主語の性数で形を変えない |
 | swing back | swing／back | `V.IMP.2`＋`ADV` | 殴り返せ | 命令の動詞原形＋反撃を表す back |
 | another man swings | another／man／swing | `DET`＋`N.SG`＋`V.PRS.3SG` | 別の男が殴りかかる | man は単数。swings の -s が三人称単数現在を示す |
-| make my mama proud | make／my／mama／proud | `V.STEM`＋`PRON.1SG`＋`N.SG`＋`ADJ.INVAR` | 母さんを誇らしくさせる | make＋目的語＋形容詞。proud は mama の結果の状態を表す |
+| make my mama proud | make／my／mama／proud | `V.STEM`＋`PRON.1SG.M/F`（所有形）＋`N.SG`＋`ADJ.INVAR` | 母さんを誇らしくさせる | make＋目的語＋形容詞。proud は mama の結果の状態を表す |
 | make the hits rain | make／hit／rain | `V.STEM`＋`N.PL`＋`V.STEM` | 打撃を雨のように降らせる | hits は複数名詞。make＋目的語＋動詞原形の使役構文 |
 
 ### 文法説明
@@ -212,14 +212,14 @@ f*ckin' は提示された伏せ字と語尾の省略を保っています。「
 | 本文の形 | 基本形 | 品詞 | 意味 | 活用・語尾の働き |
 | --- | --- | --- | --- | --- |
 | Father | father | `N.SG` | 父よ | 単数。呼びかけであり forgive の明示主語ではない |
-| forgive me | forgive／I | `V.IMP.2`＋`PRON.1SG` | 俺を赦してくれ | 原形による命令・願い。me は一人称単数目的格 |
-| can't forgive them | can／not／forgive／they | `AUX.PRS.1SG`＋`PART`＋`V.STEM`＋`PRON.3PL` | 彼らを赦せない | can't は cannot の縮約。them は三人称複数目的格 |
-| You know my history | you／know／my／history | `PRON.2`＋`V.PRS.2`＋`PRON.1SG`＋`N.SG` | あなたは俺の過去を知っている | know は二人称主語の現在形。history はここでは単数 |
-| what I did then | what／I／do／then | `PRON`＋`PRON.1SG`＋`V.PST.1SG`＋`ADV` | あの時俺がしたこと／何をしたか | did は do の過去形。what 以下全体が know の内容 |
-| What I do now | what／I／do／now | `PRON`＋`PRON.1SG`＋`V.PRS.1SG`＋`ADV` | 今俺がすること | do は一人称主語の現在形。what 以下が後続の評価の対象 |
+| forgive me | forgive／I | `V.IMP.2`＋`PRON.1SG.M/F` | 俺を赦してくれ | 原形による命令・願い。me は一人称単数目的格 |
+| can't forgive them | can／not／forgive／they | `AUX.PRS.1SG`＋`PART`＋`V.STEM`＋`PRON.3PL.M/F` | 彼らを赦せない | can't は cannot の縮約。them は三人称複数目的格 |
+| You know my history | you／know／my／history | `PRON.2SG.M/F`＋`V.PRS.2`＋`PRON.1SG.M/F`（所有形）＋`N.SG` | あなたは俺の過去を知っている | know は二人称主語の現在形。history はここでは単数 |
+| what I did then | what／I／do／then | `PRON.NEUT.SG/PL`＋`PRON.1SG.M/F`＋`V.PST.1SG`＋`ADV` | あの時俺がしたこと／何をしたか | did は do の過去形。what 以下全体が know の内容 |
+| What I do now | what／I／do／now | `PRON.NEUT.SG`＋`PRON.1SG.M/F`＋`V.PRS.1SG`＋`ADV` | 今俺がすること | do は一人称主語の現在形。what 以下が後続の評価の対象 |
 | a whole lot worse | whole／lot／worse | `ADJ.INVAR`＋`N.SG`＋`ADJ.INVAR` | はるかに悪い | worse は bad の比較級。a whole lot が比較の差を大きくする |
 | Heavy is the head | heavy／be／head | `ADJ.INVAR`＋`AUX.PRS.3SG`＋`N.SG` | その頭は重い | heavy を前に置く倒置。head は単数、is は三人称単数現在 |
-| it's | it／be | `PRON.3SG`＋`AUX.PRS.3SG` | それは〜だ | it is の縮約。三人称単数 |
+| it's | it／be | `PRON.3SG.NEUT`＋`AUX.PRS.3SG` | それは〜だ | it is の縮約。三人称単数 |
 | a blessing and a curse | blessing／and／curse | `N.SG`＋`CONJ`＋`N.SG` | 祝福と呪い | いずれも単数可算名詞。二つの評価を and でつなぐ |
 
 ### 文法説明
@@ -273,7 +273,7 @@ king と重い head の組み合わせから、権力・地位の責任を頭の
 | 本文の形 | 基本形 | 品詞 | 意味 | 活用・語尾の働き |
 | --- | --- | --- | --- | --- |
 | ना दे दिल परदेसी नू | देणा／दिल／परदेसी／नू など | `PART`＋`V.IMP.2SG`＋`N.M.SG`＋`N.M.SG`＋`POSTP` | よそ者に心を与えるな | 02の否定命令を再現。दिल は男性単数、दे は二人称単数系列で性を区別しない |
-| तैनू … पई जाऊगा | तूं／पैणा／जाणा など | `PRON.2SG`＋`V`（地域形・語形未確定）＋`V.FUT.2SG.M` | お前は〜することになる | 二人称単数の与格と必要表現。未来の男性単数系列を保つ |
+| तैनू … पई जाऊगा | तूं／पैणा／जाणा など | `PRON.2SG.M/F`＋`V`（地域形・語形未確定）＋`V.FUT.2SG.M` | お前は〜することになる | 二人称単数の与格と必要表現。未来の男性単数系列を保つ |
 | जोगन होना | जोगन／होणा | `N.F.SG`＋`V.INF` | 女修行者になること | 女性単数の結果名詞＋人称を示さない不定詞 |
 | मुँह सी लांगी | मुँह／सीउणा／लैणा（動詞の分析は推定） | `N.M.SG`＋`V.STEM`＋`V.FUT.1SG.F` | 傷の口を縫ってしまおう | 04と同じ女性・一人称単数未来の読み。मुँह は男性複数と読む |
 | जे … ज़हर | जे／ज़हर など | `CONJ`＋`N.M.SG`（主要語） | もし〜毒 | 条件節はここでも述語を欠いたまま切れる。ज़हर は男性の物質名詞 |
@@ -311,10 +311,10 @@ king と重い head の組み合わせから、権力・地位の責任を頭の
 | callin' out | call out | `V.PTCP.PRS` | 糾弾している、正体を指摘している | calling の口語表記。-ing 形だけで人称・時制は決まらない |
 | all the phonies | all／phony | `DET`＋`N.PL` | 偽物ども全員 | phonies は phony の複数名詞形 |
 | GOAT | greatest of all time | `N.SG` | 史上最高の人物 | スラングの略称。ここでは単数の人物の呼び名 |
-| of 'em all | of／they／all | `PREP`＋`PRON`＋`PRON` | 彼ら全員の中の | 'em は them の口語形で三人称複数目的格 |
-| He's invincible | he／be／invincible | `PRON.3SG`＋`AUX.PRS.3SG`＋`ADJ.INVAR` | 彼は打ち負かせない | He's は He is。is は三人称単数現在 |
-| he's untouchable | he／be／untouchable | `PRON.3SG`＋`AUX.PRS.3SG`＋`ADJ.INVAR` | 彼には手出しできない | ここも he is。形容詞 untouchable は性数によって変化しない |
-| he's seen it all | he／have／see／it／all | `PRON.3SG`＋`AUX.PRS.3SG`＋`V.PTCP.PST`＋`PRON.3SG`＋`PRON` | 彼はすべてを見てきた | ここは he has。seen は see の過去分詞。現在完了を作る |
+| of 'em all | of／they／all | `PREP`＋`PRON.3PL.M/F`＋`PRON.M/F.PL` | 彼ら全員の中の | 'em は them の口語形で三人称複数目的格 |
+| He's invincible | he／be／invincible | `PRON.3SG.M`＋`AUX.PRS.3SG`＋`ADJ.INVAR` | 彼は打ち負かせない | He's は He is。is は三人称単数現在 |
+| he's untouchable | he／be／untouchable | `PRON.3SG.M`＋`AUX.PRS.3SG`＋`ADJ.INVAR` | 彼には手出しできない | ここも he is。形容詞 untouchable は性数によって変化しない |
+| he's seen it all | he／have／see／it／all | `PRON.3SG.M`＋`AUX.PRS.3SG`＋`V.PTCP.PST`＋`PRON.3SG.NEUT`＋`PRON.NEUT.SG` | 彼はすべてを見てきた | ここは he has。seen は see の過去分詞。現在完了を作る |
 
 ### 文法説明
 
@@ -348,7 +348,7 @@ untouchable は文字どおりの接触の禁止ではなく、敵が手出し�
 
 | 本文の形 | 基本形 | 品詞 | 意味 | 活用・語尾の働き |
 | --- | --- | --- | --- | --- |
-| I'm a king | I／be／king | `PRON.1SG`＋`AUX.PRS.1SG`＋`N.SG` | 俺は王だ | I am の縮約と単数名詞。05と同じ一人称単数現在 |
+| I'm a king | I／be／king | `PRON.1SG.M/F`＋`AUX.PRS.1SG`＋`N.SG` | 俺は王だ | I am の縮約と単数名詞。05と同じ一人称単数現在 |
 | far from a saint | far／from／saint | `ADV`＋`PREP`＋`N.SG` | 聖人からほど遠い | saint は単数。前置詞句で隔たりを表す |
 | good good | good | `ADJ.INVAR` | とても良い | 同じ形容詞を反復。thing を修飾し、性数では変化しない |
 | Mama said swing back | mama／say／swing／back | `N.SG`＋`V.PST.3SG`＋`V.IMP.2`＋`ADV` | 母さんは殴り返せと言った | said は過去形、swing は引用内の命令形 |
@@ -389,12 +389,12 @@ untouchable は文字どおりの接触の禁止ではなく、敵が手出し�
 | 本文の形 | 基本形 | 品詞 | 意味 | 活用・語尾の働き |
 | --- | --- | --- | --- | --- |
 | Heavy is the head | heavy／be／head | `ADJ.INVAR`＋`AUX.PRS.3SG`＋`N.SG` | その頭は重い | 述語形容詞を前に出した倒置。is は単数の head に対応 |
-| It's | it／be | `PRON.3SG`＋`AUX.PRS.3SG` | それは〜だ | it is の縮約で三人称単数現在 |
+| It's | it／be | `PRON.3SG.NEUT`＋`AUX.PRS.3SG` | それは〜だ | it is の縮約で三人称単数現在 |
 | blessing／curse | blessing／curse | `N.SG`／`N.SG` | 祝福／呪い | どちらも a を伴う単数可算名詞 |
-| I'mma | I am going to に相当する口語形 | `PRON.1SG`＋`AUX.FUT.1SG` | 俺は〜するつもりだ | 一人称単数の意図・これからの行為を示す縮約 |
-| make it worse | make／it／worse | `V.STEM`＋`PRON.3SG`＋`ADJ.INVAR` | それをもっと悪くする | make＋目的語＋形容詞。worse は bad の比較級で性数不変 |
-| Hit 'em | hit／they | `V.IMP.2`＋`PRON.3PL` | 奴らを打て | hit は命令の原形、'em は them の口語形で三人称複数目的格 |
-| where it hurts | where／it／hurt | `ADV`＋`PRON.3SG`＋`V.PRS.3SG` | 痛むところで | where が場所・弱点を表す節を導く。hurts は三人称単数現在 |
+| I'mma | I am going to に相当する口語形 | `PRON.1SG.M/F`＋`AUX.FUT.1SG` | 俺は〜するつもりだ | 一人称単数の意図・これからの行為を示す縮約 |
+| make it worse | make／it／worse | `V.STEM`＋`PRON.3SG.NEUT`＋`ADJ.INVAR` | それをもっと悪くする | make＋目的語＋形容詞。worse は bad の比較級で性数不変 |
+| Hit 'em | hit／they | `V.IMP.2`＋`PRON.3PL.M/F` | 奴らを打て | hit は命令の原形、'em は them の口語形で三人称複数目的格 |
+| where it hurts | where／it／hurt | `ADV`＋`PRON.3SG.NEUT`＋`V.PRS.3SG` | 痛むところで | where が場所・弱点を表す節を導く。hurts は三人称単数現在 |
 
 ### 文法説明
 
