@@ -73,6 +73,18 @@ movies/<映画名>-<公開年>/
 
 新規作成には [台詞ひな形](movies/_template/dialogues/dialogue.md)・[歌詞ひな形](movies/_template/songs/Song-Title.md) を使います。
 
+## 保存先・書式の検査
+
+教材の変更後、コミット前に `python3 scripts/check_notes.py` を実行します。保存パス、各節の5区分、語彙表の列、台詞の番号とアンカー、末尾の出典欄を検査します。対象パスを引数で指定すると、リポジトリ外への保存先もエラーになります。既存のタミル語教材4ファイルは本文形式の検査から除外します。
+
+GitHub Actions でも同じ検査を実行します。この検査は翻訳の正確さや指示を読んだことを判定せず、リポジトリ外のファイルは自動検出しません。Actions の失敗を理由にマージを禁止するには、別途ブランチ保護の設定が必要です。
+
+### クラウド環境の開始位置への案内
+
+クラウド環境で `python3 /workspace/hindi_movie/scripts/setup_workspace.py` を実行すると、`/workspace/AGENTS.md` にプロジェクトの指示への案内を配置します。既存の異なる指示は上書きしません。案内の原本と配置処理はこのリポジトリで管理します。
+
+新しい環境にも自動配置するには、リポジトリの取得後にこのコマンドを実行するよう環境の起動処理を設定する必要があります。スクリプトの追加だけではその設定やパーソナル指示は変更されません。
+
 ## 作品一覧
 
 - [Gangs of Wasseypur（2012）](movies/Gangs-of-Wasseypur-2012/)：[台詞集](movies/Gangs-of-Wasseypur-2012/dialogues/dialogue.md)
