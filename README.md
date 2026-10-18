@@ -75,7 +75,7 @@ movies/<映画名>-<公開年>/
 
 ## 作品一覧
 
-ヒンディー語教材はまだありません。
+- [Gangs of Wasseypur（2012）](movies/Gangs-of-Wasseypur-2012/)：[台詞集](movies/Gangs-of-Wasseypur-2012/dialogues/dialogue.md)
 
 ### 構成・説明の参考
 
