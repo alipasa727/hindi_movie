@@ -49,9 +49,7 @@ def check_note(path):
 
     if len(re.findall(r"^# .+$", text, re.M)) != 1:
         fail("先頭見出しは1つ必要です")
-    summary = "<summary>出典と確認範囲</summary>"
-    if text.count(summary) != 1 or not text.rstrip().endswith("</details>"):
-        fail("末尾に出典と確認範囲をまとめてください")
+    # Source appendices may exist in older notes; they are not required.
     body = text.split("<details>", 1)[0]
     # Anchors may precede each numbered dialogue; they are not an introduction.
     body = re.sub(r'<a id="dialogue-\d{3,}"></a>\s*', "", body)

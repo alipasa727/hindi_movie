@@ -26,7 +26,8 @@ class CheckNotesTests(unittest.TestCase):
         self.path.write_text(text)
         return checker.check_note(self.path)
 
-    def test_template_is_accepted(self):
+    def test_template_without_source_appendix_is_accepted(self):
+        self.assertNotIn("出典と確認範囲", self.template)
         self.assertEqual(self.write(self.template), [])
 
     def test_dialogue_toc_is_accepted(self):
