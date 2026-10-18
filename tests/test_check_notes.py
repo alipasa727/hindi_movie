@@ -39,13 +39,11 @@ class CheckNotesTests(unittest.TestCase):
         self.assertTrue(any("作品タイトル" in e for e in errors))
 
     def test_dialogue_toc_is_accepted(self):
-        toc = "## 目次\n\n- [001：［台詞の短い見出し］](#dialogue-001)\n\n"
-        text = self.template.replace('<a id="dialogue-001">', toc + '<a id="dialogue-001">', 1)
-        self.assertEqual(self.write(text), [])
+        self.assertTrue(self.template.startswith("## 目次\n"))
+        self.assertEqual(self.write(self.template), [])
 
     def test_broken_toc_link_is_rejected(self):
-        toc = "## 目次\n\n- [001：［台詞の短い見出し］](#dialogue-002)\n\n"
-        text = self.template.replace('<a id="dialogue-001">', toc + '<a id="dialogue-001">', 1)
+        text = self.template.replace("(#dialogue-001)", "(#dialogue-002)", 1)
         self.assertTrue(any("目次の項目" in e for e in self.write(text)))
 
     def test_original_wrong_path_is_rejected(self):
@@ -88,7 +86,7 @@ class CheckNotesTests(unittest.TestCase):
         self.assertTrue(any("アンカー" in e for e in errors))
 
     def test_intro_is_rejected(self):
-        errors = self.write(self.template.replace("\n\n", "\n\n作成手順の説明。\n\n", 1))
+        errors = self.write("作成手順の説明。\n\n" + self.template)
         self.assertTrue(any("前置き" in e for e in errors))
 
     def test_symlink_outside_repository_is_rejected(self):
