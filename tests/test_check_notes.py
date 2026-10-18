@@ -58,6 +58,28 @@ class CheckNotesTests(unittest.TestCase):
         path = checker.ROOT / "Gangs of Wasseypur/セリフと日本語訳.md"
         self.assertTrue(any("命名規則" in e for e in checker.check_note(path)))
 
+    def test_requested_sholay_excerpt_is_accepted(self):
+        path = checker.ROOT / "movies/Sholay-1975/dialogues/Kitne-Aadmi-The.md"
+        path.parent.mkdir(parents=True)
+        path.write_text(self.template)
+        self.assertEqual(checker.check_note(path), [])
+
+    def test_standalone_exception_still_checks_content(self):
+        path = checker.ROOT / "movies/Sholay-1975/dialogues/Kitne-Aadmi-The.md"
+        path.parent.mkdir(parents=True)
+        path.write_text(self.template.replace('id="dialogue-001"', 'id="dialogue-002"'))
+        self.assertTrue(any("アンカー" in e for e in checker.check_note(path)))
+
+    def test_standalone_exception_does_not_allow_other_files(self):
+        for relative in (
+            "movies/Sholay-1975/dialogues/Other-Dialogue.md",
+            "movies/Film-2012/dialogues/Kitne-Aadmi-The.md",
+        ):
+            with self.subTest(path=relative):
+                path = checker.ROOT / relative
+                self.assertTrue(any("dialogues/dialogue.md" in e
+                                    for e in checker.check_note(path)))
+
     def test_song_template_is_accepted(self):
         path = checker.ROOT / "movies/Film-2012/songs/Song-Title.md"
         path.parent.mkdir(parents=True)

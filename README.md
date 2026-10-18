@@ -73,6 +73,8 @@ movies/<映画名>-<公開年>/
 
 新規作成には [台詞ひな形](movies/_template/dialogues/dialogue.md)・[歌詞ひな形](movies/_template/songs/Song-Title.md) を使います。
 
+個別指定による例外として、Sholay の「कितने आदमी थे?」から始まる今回の抜粋だけは、`dialogues/Kitne-Aadmi-The.md` に独立して保存します。この例外は他の台詞には適用しません。
+
 ## 保存先・書式の検査
 
 教材の変更後、コミット前に `python3 scripts/check_notes.py` を実行します。保存パス、各節の5区分、語彙表の列、台詞の番号とアンカーを検査します。対象パスを引数で指定すると、リポジトリ外への保存先もエラーになります。
@@ -92,6 +94,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 ## 作品一覧
 
 - [Kuch Kuch Hota Hai（1998）](movies/Kuch-Kuch-Hota-Hai-1998/)：[Saajanji Ghar Aaye](movies/Kuch-Kuch-Hota-Hai-1998/songs/Saajanji-Ghar-Aaye.md)
+- [Sholay（1975）](movies/Sholay-1975/)：[कितने आदमी थे?](movies/Sholay-1975/dialogues/Kitne-Aadmi-The.md)
 - [Hum Aapke Hain Kaun（1994）](movies/Hum-Aapke-Hain-Kaun-1994/)：[Didi Tera Devar Deewana](movies/Hum-Aapke-Hain-Kaun-1994/songs/Didi-Tera-Devar-Deewana.md)・[Joote De Do Paise Le Lo](movies/Hum-Aapke-Hain-Kaun-1994/songs/Joote-De-Do-Paise-Le-Lo.md)・[Pehla Pehla Pyar Hai](movies/Hum-Aapke-Hain-Kaun-1994/songs/Pehla-Pehla-Pyar-Hai.md)
 - [Zindagi Na Milegi Dobara（2011）](movies/Zindagi-Na-Milegi-Dobara-2011/)：[Sooraj Ki Baahon Mein](movies/Zindagi-Na-Milegi-Dobara-2011/songs/Sooraj-Ki-Baahon-Mein.md)・[Señorita](movies/Zindagi-Na-Milegi-Dobara-2011/songs/Senorita.md)
 - [Dilwale Dulhania Le Jayenge（1995）](movies/Dilwale-Dulhania-Le-Jayenge-1995/)：[台詞集](movies/Dilwale-Dulhania-Le-Jayenge-1995/dialogues/dialogue.md)・[मेरे ख़्वाबों में](movies/Dilwale-Dulhania-Le-Jayenge-1995/songs/Mere-Khwabon-Mein.md)・[हो गया है तुझको तो प्यार सजना](movies/Dilwale-Dulhania-Le-Jayenge-1995/songs/Ho-Gaya-Hai-Tujhko-To-Pyar-Sajna.md)・[मेहंदी लगा के रखना](movies/Dilwale-Dulhania-Le-Jayenge-1995/songs/Mehndi-Laga-Ke-Rakhna.md)・[तुझे देखा तो](movies/Dilwale-Dulhania-Le-Jayenge-1995/songs/Tujhe-Dekha-To.md)

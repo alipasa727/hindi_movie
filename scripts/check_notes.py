@@ -10,6 +10,8 @@ HEADINGS = ["本文", "直訳", "語彙説明", "文法説明", "補足"]
 VOCAB_HEADER = "| 本文の形 | 基本形 | 品詞 | 意味 | 活用・語尾の働き |"
 PROJECT_DOCS = {"AGENTS.md", "README.md", "SOURCES.md", "GRAMMAR_LEGEND.md",
                 "scripts/workspace-AGENTS.md"}
+# This excerpt alone was explicitly requested as a separate dialogue file.
+STANDALONE_DIALOGUES = {"movies/Sholay-1975/dialogues/Kitne-Aadmi-The.md"}
 
 
 def check_note(path):
@@ -26,7 +28,8 @@ def check_note(path):
     if not match:
         return [f"{relative}: 映画名-公開年/dialogues または songs の命名規則に違反しています"]
     category, filename = match.groups()
-    if category == "dialogues" and filename != "dialogue":
+    if (category == "dialogues" and filename != "dialogue"
+            and relative not in STANDALONE_DIALOGUES):
         return [f"{relative}: 台詞は dialogues/dialogue.md にまとめてください"]
     if category == "songs" and re.search(r"\s", filename):
         return [f"{relative}: 曲名の空白はハイフンにしてください"]
