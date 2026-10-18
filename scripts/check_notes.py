@@ -47,8 +47,12 @@ def check_note(path):
     def fail(message):
         errors.append(f"{relative}: {message}")
 
-    if len(re.findall(r"^# .+$", text, re.M)) != 1:
-        fail("先頭見出しは1つ必要です")
+    titles = re.findall(r"^# .+$", text, re.M)
+    if category == "dialogues":
+        if titles:
+            fail("台詞ファイルに作品タイトルや「台詞集」の見出しを置かないでください")
+    elif len(titles) != 1:
+        fail("歌詞の先頭見出しは曲名1つにしてください")
     # Source appendices may exist in older notes; they are not required.
     body = text.split("<details>", 1)[0]
     # Anchors may precede each numbered dialogue; they are not an introduction.
@@ -56,9 +60,12 @@ def check_note(path):
     pieces = re.split(r"^## (.+)\n", body, flags=re.M)
     if len(pieces) < 3:
         fail("台詞・歌詞の節がありません")
-    preamble = re.sub(r"\A# [^\n]+\n", "", pieces[0]).strip()
+    preamble = pieces[0]
+    if category == "songs":
+        preamble = re.sub(r"\A# [^\n]+\n", "", preamble)
+    preamble = preamble.strip()
     if preamble:
-        fail("先頭見出しと本文の間に前置きを置かないでください")
+        fail("最初の節より前に前置きを置かないでください")
 
     sections = list(zip(pieces[1::2], pieces[2::2]))
     if category == "dialogues" and sections and sections[0][0] == "目次":

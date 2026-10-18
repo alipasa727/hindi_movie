@@ -30,6 +30,14 @@ class CheckNotesTests(unittest.TestCase):
         self.assertNotIn("出典と確認範囲", self.template)
         self.assertEqual(self.write(self.template), [])
 
+    def test_dialogue_template_has_no_title(self):
+        self.assertNotRegex(self.template, r"(?m)^# ")
+        self.assertEqual(self.write(self.template), [])
+
+    def test_dialogue_title_is_rejected(self):
+        errors = self.write("# 映画タイトル\n\n" + self.template)
+        self.assertTrue(any("作品タイトル" in e for e in errors))
+
     def test_dialogue_toc_is_accepted(self):
         toc = "## 目次\n\n- [001：［台詞の短い見出し］](#dialogue-001)\n\n"
         text = self.template.replace('<a id="dialogue-001">', toc + '<a id="dialogue-001">', 1)
@@ -57,6 +65,13 @@ class CheckNotesTests(unittest.TestCase):
         path.parent.mkdir(parents=True)
         path.write_text((self.original_root / "movies/_template/songs/Song-Title.md").read_text())
         self.assertEqual(checker.check_note(path), [])
+
+    def test_song_title_is_still_required(self):
+        path = checker.ROOT / "movies/Film-2012/songs/Song-Title.md"
+        path.parent.mkdir(parents=True)
+        template = (self.original_root / "movies/_template/songs/Song-Title.md").read_text()
+        path.write_text(template.split("\n", 1)[1].lstrip("\n"))
+        self.assertTrue(any("曲名1つ" in e for e in checker.check_note(path)))
 
     def test_empty_grammar_is_rejected(self):
         start = self.template.index("### 文法説明\n")

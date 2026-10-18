@@ -1,5 +1,3 @@
-# Gangs of Wasseypur：台詞集
-
 ## 目次
 
 - [001：人間は二種類](#dialogue-001)
