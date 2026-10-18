@@ -97,7 +97,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
-- [3 Idiots（2009）](movies/3-Idiots-2009/)：[台詞集](movies/3-Idiots-2009/dialogues/dialogue.md)・[Aal Izz Well](movies/3-Idiots-2009/songs/Aal-Izz-Well.md)
+- [3 Idiots（2009）](movies/3-Idiots-2009/)：[台詞集](movies/3-Idiots-2009/dialogues/dialogue.md)・[Aal Izz Well](movies/3-Idiots-2009/songs/Aal-Izz-Well.md)・[Give Me Some Sunshine](movies/3-Idiots-2009/songs/Give-Me-Some-Sunshine.md)
 - [Bajrangi Bhaijaan（2015）](movies/Bajrangi-Bhaijaan-2015/)：[Aaj Ki Party](movies/Bajrangi-Bhaijaan-2015/songs/Aaj-Ki-Party.md)・[Chicken Kuk-Doo-Koo](movies/Bajrangi-Bhaijaan-2015/songs/Chicken-Kuk-Doo-Koo.md)・[Selfie Le Le Re](movies/Bajrangi-Bhaijaan-2015/songs/Selfie-Le-Le-Re.md)・[Tu Jo Mila](movies/Bajrangi-Bhaijaan-2015/songs/Tu-Jo-Mila.md)
 - [Dhurandhar（2025）](movies/Dhurandhar-2025/)：[台詞集](movies/Dhurandhar-2025/dialogues/dialogue.md)・[Dhurandhar - Title Track](movies/Dhurandhar-2025/songs/Dhurandhar-Title-Track.md)・[Gehra Hua](movies/Dhurandhar-2025/songs/Gehra-Hua.md)
 - [Kuch Kuch Hota Hai（1998）](movies/Kuch-Kuch-Hota-Hai-1998/)：[Saajanji Ghar Aaye](movies/Kuch-Kuch-Hota-Hai-1998/songs/Saajanji-Ghar-Aaye.md)
