@@ -87,7 +87,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
-- [Gangs of Wasseypur（2012）](movies/Gangs-of-Wasseypur-2012/)：[台詞集](movies/Gangs-of-Wasseypur-2012/dialogues/dialogue.md)
+- [Gangs of Wasseypur（2012）](movies/Gangs-of-Wasseypur-2012/)：[台詞集](movies/Gangs-of-Wasseypur-2012/dialogues/dialogue.md)・[Ek Bagal Mein Chand Hoga](movies/Gangs-of-Wasseypur-2012/songs/Ek-Bagal-Mein-Chand-Hoga.md)
 
 ### 構成・説明の参考
 
