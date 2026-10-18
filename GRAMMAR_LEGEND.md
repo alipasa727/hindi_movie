@@ -67,6 +67,7 @@
 | `ADJ` | adjective | 形容詞 |
 | `ADV` | adverb | 副詞 |
 | `POSTP` | postposition | 後置詞 |
+| `PREP` | preposition | 前置詞。スペイン語部分の de・a・con などに用い、ヒンディー語の後置詞と区別する |
 | `PRON` | pronoun | 代名詞。人称・指示・疑問・関係代名詞を含む。所有形はその旨を添える |
 | `DET` | determiner | 限定詞。名詞に付く指示・数量などの限定表現 |
 | `NUM` | numeral | 数詞 |
