@@ -97,7 +97,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
-- [Baiju Bawra（1952）](movies/Baiju-Bawra-1952/)：[台詞集](movies/Baiju-Bawra-1952/dialogues/dialogue.md)・[Tu Ganga Ki Mauj](movies/Baiju-Bawra-1952/songs/Tu-Ganga-Ki-Mauj.md)
+- [Baiju Bawra（1952）](movies/Baiju-Bawra-1952/)：[台詞集](movies/Baiju-Bawra-1952/dialogues/dialogue.md)・[Tu Ganga Ki Mauj](movies/Baiju-Bawra-1952/songs/Tu-Ganga-Ki-Mauj.md)・[O Duniya Ke Rakhwale](movies/Baiju-Bawra-1952/songs/O-Duniya-Ke-Rakhwale.md)・[Bachpan Ki Mohabbat](movies/Baiju-Bawra-1952/songs/Bachpan-Ki-Mohabbat.md)
 - [Lage Raho Munna Bhai（2006）](movies/Lage-Raho-Munna-Bhai-2006/)：[台詞集](movies/Lage-Raho-Munna-Bhai-2006/dialogues/dialogue.md)
 - [PK（2014）](movies/PK-2014/)：[台詞集](movies/PK-2014/dialogues/dialogue.md)・[Bhagwan Hai Kahan Re Tu](movies/PK-2014/songs/Bhagwan-Hai-Kahan-Re-Tu.md)・[Tharki Chokro](movies/PK-2014/songs/Tharki-Chokro.md)
 - [Munna Bhai MBBS（2003）](movies/Munna-Bhai-MBBS-2003/)：[台詞集](movies/Munna-Bhai-MBBS-2003/dialogues/dialogue.md)・[M Bole To](movies/Munna-Bhai-MBBS-2003/songs/M-Bole-To.md)・[Apun Jaise Tapori](movies/Munna-Bhai-MBBS-2003/songs/Apun-Jaise-Tapori.md)
