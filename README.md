@@ -98,6 +98,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 ## 作品一覧
 
 - [PK（2014）](movies/PK-2014/)：[台詞集](movies/PK-2014/dialogues/dialogue.md)
+- [Munna Bhai MBBS（2003）](movies/Munna-Bhai-MBBS-2003/)：[台詞集](movies/Munna-Bhai-MBBS-2003/dialogues/dialogue.md)
 - [Gully Boy（2019）](movies/Gully-Boy-2019/)：[台詞集](movies/Gully-Boy-2019/dialogues/dialogue.md)・[Apna Time Aayega](movies/Gully-Boy-2019/songs/Apna-Time-Aayega.md)・[Asli Hip Hop](movies/Gully-Boy-2019/songs/Asli-Hip-Hop.md)・[Doori](movies/Gully-Boy-2019/songs/Doori.md)・[Jingostan Beatbox](movies/Gully-Boy-2019/songs/Jingostan-Beatbox.md)・[Sher Aaya Sher](movies/Gully-Boy-2019/songs/Sher-Aaya-Sher.md)・[Mere Gully Mein](movies/Gully-Boy-2019/songs/Mere-Gully-Mein.md)
 - [3 Idiots（2009）](movies/3-Idiots-2009/)：[台詞集](movies/3-Idiots-2009/dialogues/dialogue.md)・[Aal Izz Well](movies/3-Idiots-2009/songs/Aal-Izz-Well.md)・[Give Me Some Sunshine](movies/3-Idiots-2009/songs/Give-Me-Some-Sunshine.md)・[Zoobi Doobi](movies/3-Idiots-2009/songs/Zoobi-Doobi.md)
 - [Baazigar（1993）](movies/Baazigar-1993/)：[台詞集](movies/Baazigar-1993/dialogues/dialogue.md)・[Baazigar O Baazigar](movies/Baazigar-1993/songs/Baazigar-O-Baazigar.md)・[Kitabein Bahut Si](movies/Baazigar-1993/songs/Kitabein-Bahut-Si.md)・[Yeh Kaali Kaali Aankhen](movies/Baazigar-1993/songs/Yeh-Kaali-Kaali-Aankhen.md)
