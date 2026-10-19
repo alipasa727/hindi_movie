@@ -97,7 +97,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
-- [Yeh Jawaani Hai Deewani（2013）](movies/Yeh-Jawaani-Hai-Deewani-2013/)：[Badtameez Dil](movies/Yeh-Jawaani-Hai-Deewani-2013/songs/Badtameez-Dil.md)
+- [Yeh Jawaani Hai Deewani（2013）](movies/Yeh-Jawaani-Hai-Deewani-2013/)：[Badtameez Dil](movies/Yeh-Jawaani-Hai-Deewani-2013/songs/Badtameez-Dil.md)・[Balam Pichkari](movies/Yeh-Jawaani-Hai-Deewani-2013/songs/Balam-Pichkari.md)
 - [Baiju Bawra（1952）](movies/Baiju-Bawra-1952/)：[台詞集](movies/Baiju-Bawra-1952/dialogues/dialogue.md)・[Tu Ganga Ki Mauj](movies/Baiju-Bawra-1952/songs/Tu-Ganga-Ki-Mauj.md)・[O Duniya Ke Rakhwale](movies/Baiju-Bawra-1952/songs/O-Duniya-Ke-Rakhwale.md)・[Bachpan Ki Mohabbat](movies/Baiju-Bawra-1952/songs/Bachpan-Ki-Mohabbat.md)
 - [Lage Raho Munna Bhai（2006）](movies/Lage-Raho-Munna-Bhai-2006/)：[台詞集](movies/Lage-Raho-Munna-Bhai-2006/dialogues/dialogue.md)
 - [PK（2014）](movies/PK-2014/)：[台詞集](movies/PK-2014/dialogues/dialogue.md)・[Bhagwan Hai Kahan Re Tu](movies/PK-2014/songs/Bhagwan-Hai-Kahan-Re-Tu.md)・[Tharki Chokro](movies/PK-2014/songs/Tharki-Chokro.md)
