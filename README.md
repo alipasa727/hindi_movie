@@ -97,7 +97,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
-- [Gully Boy（2019）](movies/Gully-Boy-2019/)：[台詞集](movies/Gully-Boy-2019/dialogues/dialogue.md)・[Apna Time Aayega](movies/Gully-Boy-2019/songs/Apna-Time-Aayega.md)・[Asli Hip Hop](movies/Gully-Boy-2019/songs/Asli-Hip-Hop.md)
+- [Gully Boy（2019）](movies/Gully-Boy-2019/)：[台詞集](movies/Gully-Boy-2019/dialogues/dialogue.md)・[Apna Time Aayega](movies/Gully-Boy-2019/songs/Apna-Time-Aayega.md)・[Asli Hip Hop](movies/Gully-Boy-2019/songs/Asli-Hip-Hop.md)・[Doori](movies/Gully-Boy-2019/songs/Doori.md)
 - [3 Idiots（2009）](movies/3-Idiots-2009/)：[台詞集](movies/3-Idiots-2009/dialogues/dialogue.md)・[Aal Izz Well](movies/3-Idiots-2009/songs/Aal-Izz-Well.md)・[Give Me Some Sunshine](movies/3-Idiots-2009/songs/Give-Me-Some-Sunshine.md)・[Zoobi Doobi](movies/3-Idiots-2009/songs/Zoobi-Doobi.md)
 - [Baazigar（1993）](movies/Baazigar-1993/)：[台詞集](movies/Baazigar-1993/dialogues/dialogue.md)・[Baazigar O Baazigar](movies/Baazigar-1993/songs/Baazigar-O-Baazigar.md)・[Kitabein Bahut Si](movies/Baazigar-1993/songs/Kitabein-Bahut-Si.md)・[Yeh Kaali Kaali Aankhen](movies/Baazigar-1993/songs/Yeh-Kaali-Kaali-Aankhen.md)
 - [Bajrangi Bhaijaan（2015）](movies/Bajrangi-Bhaijaan-2015/)：[Aaj Ki Party](movies/Bajrangi-Bhaijaan-2015/songs/Aaj-Ki-Party.md)・[Chicken Kuk-Doo-Koo](movies/Bajrangi-Bhaijaan-2015/songs/Chicken-Kuk-Doo-Koo.md)・[Selfie Le Le Re](movies/Bajrangi-Bhaijaan-2015/songs/Selfie-Le-Le-Re.md)・[Tu Jo Mila](movies/Bajrangi-Bhaijaan-2015/songs/Tu-Jo-Mila.md)
