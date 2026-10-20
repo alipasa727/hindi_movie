@@ -97,7 +97,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
-- [Mughal-E-Azam（1960）](movies/Mughal-E-Azam-1960/)：[台詞集](movies/Mughal-E-Azam-1960/dialogues/dialogue.md)
+- [Mughal-E-Azam（1960）](movies/Mughal-E-Azam-1960/)：[台詞集](movies/Mughal-E-Azam-1960/dialogues/dialogue.md)・[Ae Ishq Yeh Sab Duniya Wale](movies/Mughal-E-Azam-1960/songs/Ae-Ishq-Yeh-Sab-Duniya-Wale.md)
 - [Mother India（1957）](movies/Mother-India-1957/)：[台詞集](movies/Mother-India-1957/dialogues/dialogue.md)
 - [Maine Pyar Kiya（1989）](movies/Maine-Pyar-Kiya-1989/)：[台詞集](movies/Maine-Pyar-Kiya-1989/dialogues/dialogue.md)・[Aate Jaate Hanste Gaate](movies/Maine-Pyar-Kiya-1989/songs/Aate-Jaate-Hanste-Gaate.md)・[Kabootar Ja Ja Ja](movies/Maine-Pyar-Kiya-1989/songs/Kabootar-Ja-Ja-Ja.md)
 - [Raanjhanaa（2013）](movies/Raanjhanaa-2013/)：[台詞集](movies/Raanjhanaa-2013/dialogues/dialogue.md)・[Banarasiya](movies/Raanjhanaa-2013/songs/Banarasiya.md)・[Raanjhanaa](movies/Raanjhanaa-2013/songs/Raanjhanaa.md)
