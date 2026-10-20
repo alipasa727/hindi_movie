@@ -97,6 +97,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
+- [Mother India（1957）](movies/Mother-India-1957/)：[台詞集](movies/Mother-India-1957/dialogues/dialogue.md)
 - [Maine Pyar Kiya（1989）](movies/Maine-Pyar-Kiya-1989/)：[台詞集](movies/Maine-Pyar-Kiya-1989/dialogues/dialogue.md)・[Aate Jaate Hanste Gaate](movies/Maine-Pyar-Kiya-1989/songs/Aate-Jaate-Hanste-Gaate.md)・[Kabootar Ja Ja Ja](movies/Maine-Pyar-Kiya-1989/songs/Kabootar-Ja-Ja-Ja.md)
 - [Raanjhanaa（2013）](movies/Raanjhanaa-2013/)：[台詞集](movies/Raanjhanaa-2013/dialogues/dialogue.md)・[Banarasiya](movies/Raanjhanaa-2013/songs/Banarasiya.md)・[Raanjhanaa](movies/Raanjhanaa-2013/songs/Raanjhanaa.md)
 - [Yeh Jawaani Hai Deewani（2013）](movies/Yeh-Jawaani-Hai-Deewani-2013/)：[Badtameez Dil](movies/Yeh-Jawaani-Hai-Deewani-2013/songs/Badtameez-Dil.md)・[Balam Pichkari](movies/Yeh-Jawaani-Hai-Deewani-2013/songs/Balam-Pichkari.md)・[Ghagra](movies/Yeh-Jawaani-Hai-Deewani-2013/songs/Ghagra.md)
