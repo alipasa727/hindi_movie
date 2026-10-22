@@ -98,7 +98,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 ## 作品一覧
 
 - [Dil To Pagal Hai（1997）](movies/Dil-To-Pagal-Hai-1997/)：[台詞集](movies/Dil-To-Pagal-Hai-1997/dialogues/dialogue.md)
-- [Devdas（2002）](movies/Devdas-2002/)：[台詞集](movies/Devdas-2002/dialogues/dialogue.md)
+- [Devdas（2002）](movies/Devdas-2002/)：[台詞集](movies/Devdas-2002/dialogues/dialogue.md)・[Silsila Yeh Chahat Ka](movies/Devdas-2002/songs/Silsila-Yeh-Chahat-Ka.md)
 - [Angrezi Medium（2020）](movies/Angrezi-Medium-2020/)：[台詞集](movies/Angrezi-Medium-2020/dialogues/dialogue.md)
 - [Hindi Medium（2017）](movies/Hindi-Medium-2017/)：[台詞集](movies/Hindi-Medium-2017/dialogues/dialogue.md)・[Oh Ho Ho Ho](movies/Hindi-Medium-2017/songs/Oh-Ho-Ho-Ho.md)
 - [Mughal-E-Azam（1960）](movies/Mughal-E-Azam-1960/)：[台詞集](movies/Mughal-E-Azam-1960/dialogues/dialogue.md)・[Ae Ishq Yeh Sab Duniya Wale](movies/Mughal-E-Azam-1960/songs/Ae-Ishq-Yeh-Sab-Duniya-Wale.md)・[Ae Mohabbat Zindabad](movies/Mughal-E-Azam-1960/songs/Ae-Mohabbat-Zindabad.md)・[Bekas Pe Karam Ki Jiye](movies/Mughal-E-Azam-1960/songs/Bekas-Pe-Karam-Ki-Jiye.md)・[Humein Kaash Tumse Mohabbat](movies/Mughal-E-Azam-1960/songs/Humein-Kaash-Tumse-Mohabbat.md)・[Jab Raat Hai Aisi Matwali](movies/Mughal-E-Azam-1960/songs/Jab-Raat-Hai-Aisi-Matwali.md)・[Teri Mehfil Mein Kismat](movies/Mughal-E-Azam-1960/songs/Teri-Mehfil-Mein-Kismat.md)
