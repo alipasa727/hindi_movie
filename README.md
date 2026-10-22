@@ -97,7 +97,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 
 ## 作品一覧
 
-- [Don（1978）](movies/Don-1978/)：[台詞集](movies/Don-1978/dialogues/dialogue.md)・[Ee Hai Bambai Nagariya](movies/Don-1978/songs/Ee-Hai-Bambai-Nagariya.md)・[Khaike Paan Banaras Wala](movies/Don-1978/songs/Khaike-Paan-Banaras-Wala.md)
+- [Don（1978）](movies/Don-1978/)：[台詞集](movies/Don-1978/dialogues/dialogue.md)・[Ee Hai Bambai Nagariya](movies/Don-1978/songs/Ee-Hai-Bambai-Nagariya.md)・[Khaike Paan Banaras Wala](movies/Don-1978/songs/Khaike-Paan-Banaras-Wala.md)・[Main Hoon Don](movies/Don-1978/songs/Main-Hoon-Don.md)
 - [Dil To Pagal Hai（1997）](movies/Dil-To-Pagal-Hai-1997/)：[台詞集](movies/Dil-To-Pagal-Hai-1997/dialogues/dialogue.md)・[दिल तो पागल है](movies/Dil-To-Pagal-Hai-1997/songs/Dil-To-Pagal-Hai.md)・[भोली सी सूरत](movies/Dil-To-Pagal-Hai-1997/songs/Bholi-Si-Surat.md)
 - [Devdas（2002）](movies/Devdas-2002/)：[台詞集](movies/Devdas-2002/dialogues/dialogue.md)・[Silsila Yeh Chahat Ka](movies/Devdas-2002/songs/Silsila-Yeh-Chahat-Ka.md)・[Maar Dala](movies/Devdas-2002/songs/Maar-Dala.md)
 - [Angrezi Medium（2020）](movies/Angrezi-Medium-2020/)：[台詞集](movies/Angrezi-Medium-2020/dialogues/dialogue.md)
