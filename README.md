@@ -98,7 +98,7 @@ GitHub Actions でも同じ検査を実行します。この検査は翻訳の�
 ## 作品一覧
 
 - [Angrezi Medium（2020）](movies/Angrezi-Medium-2020/)：[台詞集](movies/Angrezi-Medium-2020/dialogues/dialogue.md)
-- [Hindi Medium（2017）](movies/Hindi-Medium-2017/)：[台詞集](movies/Hindi-Medium-2017/dialogues/dialogue.md)
+- [Hindi Medium（2017）](movies/Hindi-Medium-2017/)：[台詞集](movies/Hindi-Medium-2017/dialogues/dialogue.md)・[Oh Ho Ho Ho](movies/Hindi-Medium-2017/songs/Oh-Ho-Ho-Ho.md)
 - [Mughal-E-Azam（1960）](movies/Mughal-E-Azam-1960/)：[台詞集](movies/Mughal-E-Azam-1960/dialogues/dialogue.md)・[Ae Ishq Yeh Sab Duniya Wale](movies/Mughal-E-Azam-1960/songs/Ae-Ishq-Yeh-Sab-Duniya-Wale.md)・[Ae Mohabbat Zindabad](movies/Mughal-E-Azam-1960/songs/Ae-Mohabbat-Zindabad.md)・[Bekas Pe Karam Ki Jiye](movies/Mughal-E-Azam-1960/songs/Bekas-Pe-Karam-Ki-Jiye.md)・[Humein Kaash Tumse Mohabbat](movies/Mughal-E-Azam-1960/songs/Humein-Kaash-Tumse-Mohabbat.md)・[Jab Raat Hai Aisi Matwali](movies/Mughal-E-Azam-1960/songs/Jab-Raat-Hai-Aisi-Matwali.md)・[Teri Mehfil Mein Kismat](movies/Mughal-E-Azam-1960/songs/Teri-Mehfil-Mein-Kismat.md)
 - [Mother India（1957）](movies/Mother-India-1957/)：[台詞集](movies/Mother-India-1957/dialogues/dialogue.md)・[Dukh Bhare Din Beete Re Bhaiya](movies/Mother-India-1957/songs/Dukh-Bhare-Din-Beete-Re-Bhaiya.md)・[Duniya Mein Hum Aaye Hai](movies/Mother-India-1957/songs/Duniya-Mein-Hum-Aaye-Hai.md)・[Holi Aayi Re Kanhai](movies/Mother-India-1957/songs/Holi-Aayi-Re-Kanhai.md)
 - [Maine Pyar Kiya（1989）](movies/Maine-Pyar-Kiya-1989/)：[台詞集](movies/Maine-Pyar-Kiya-1989/dialogues/dialogue.md)・[Aate Jaate Hanste Gaate](movies/Maine-Pyar-Kiya-1989/songs/Aate-Jaate-Hanste-Gaate.md)・[Kabootar Ja Ja Ja](movies/Maine-Pyar-Kiya-1989/songs/Kabootar-Ja-Ja-Ja.md)
